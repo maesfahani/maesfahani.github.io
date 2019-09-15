@@ -8,9 +8,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Trying to make robots intelligent 
   <br><br>
-  <a href="https://www.linkedin.com/in/mahdi-abolfazli-esfahani-05332253/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mahdi-abolfazli-esfahani-05332253/" target="_blank">View My LinkedIn Profile</a> 
   <br><br>
-  <a href="https://scholar.google.com/citations?user=Y7pVVy4AAAAJ&hl=en&oi=ao/">View My Google Scholar</a> 
+  <a href="https://scholar.google.com/citations?user=Y7pVVy4AAAAJ&hl=en&oi=ao/" target="_blank">View My Google Scholar</a> 
   <br><br>  
+  <a href="https://twitter.com/abolfazli_mahdi/" target="_blank">Follow Me on Twitter</a> 
+  <br><br>
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
