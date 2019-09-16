@@ -24,6 +24,7 @@
 ---
 
 ## Skills
+
 **Programming**
 - C/C++, Python, JAVA, Shell Script, LaTeX
 
@@ -47,6 +48,7 @@
 ---
 
 ## Honors & Awards
+
 - Shortlisted as *Top 6 Data Scientist Students* in South East Asia and Pacific by Airliquid, in Future Ready Data Challenge, Singapore, 2018
 - *1st Place*, INTUition Hackathon Organized and Judged by Google, Lenovo, Black Rock, IEEE, and NTU, Singapore, 2017
 - *SINGA Scholarship Award*, Won SINGA Scholarship to purchase Ph.D. at Nanyang Technological University, Singapore, 2017
@@ -69,11 +71,13 @@
 ---
 
 ## Publications
+
 To see my publication record please check out [my Google Scholar](https://scholar.google.com/citations?user=Y7pVVy4AAAAJ&hl=en&oi=ao) profile.
 
 ---
 
 ## Patent
+
 - Stereo Depth Map Post-Processing Using Multiple Domain Analysis for Autonomous Navigation, NTU ref:2018-281, Singapore Provisional Patent No: 10201810715U.
 ---
 
