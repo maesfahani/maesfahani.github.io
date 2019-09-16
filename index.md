@@ -2,7 +2,7 @@
 
 ---
 
-I am currently a Ph.D. candidate of Electrical and Electronics Engineering and a research assistant at the Robotics Laboratory at Nanyang Technological University (NTU), Singapore. My Current research is focused on incorporating Artificial Intelligence (AI) and Machine Learning (ML) techniques in order to make machines intelligent. 
+I am currently a Ph.D. candidate of Electrical and Electronics Engineering, and a research assistant at the Robotics Laboratory at Nanyang Technological University (NTU), Singapore. My current research is focused on incorporating Artificial Intelligence (AI) and Machine Learning (ML) techniques in order to make machines intelligent.
 
 
 ## Education
