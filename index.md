@@ -1,11 +1,13 @@
-## Portfolio
+## About Me!
 
 ---
 
-### Category Name 1 
+### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Education]
+Nanyang Technological University (NTU)
+PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING
+2017 - Expected:2021
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
