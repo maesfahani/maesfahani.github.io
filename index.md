@@ -88,8 +88,8 @@ To see my publication record please check out [my Google Scholar](https://schola
 ---
 
 ## Experience
-
 *Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, Ferdowsi University of Mashhad, Iran | 2011-2016
+*Research Assistant*, Robotics Lab., Nanyang Technological University, Singapore | 2017-now
 *Interim CTO*, [OcularAI Inc.](http://Ocular.ai)  | 2015-now
 *Director of NTU Research Showcase 2019*, NTU EEE Graduate Students Club, Singapore | 2019
 Researcher at Machine Vision Lab., Ferdowsi University of Mashhad, Iran | 2015-2016
