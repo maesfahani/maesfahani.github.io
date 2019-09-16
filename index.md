@@ -6,7 +6,7 @@
 ### Nanyang Technological University (NTU), Singapore
 **PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2017 - Expected:2021*
 - Got Singapore International Graduate Award (SINGA)
-- NTU was ranked 4 ՙՍ in Engineering and Technology subject, 11th overall in QS World University Rankings 2017.
+- NTU was ranked 4th in Engineering and Technology subject, 11th overall in QS World University Rankings 2017.
 - Thesis: Deep Learning based Visual-Inertial Odometry System, Under Supervision of [Prof. Han Wang](https://www3.ntu.edu.sg/home/hw/)
 
 ### Ferdowsi University of Mashhad (FUM), Iran ###
