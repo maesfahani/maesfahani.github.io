@@ -79,6 +79,7 @@ To see my publication record please check out [my Google Scholar](https://schola
 ## Patent
 
 - Stereo Depth Map Post-Processing Using Multiple Domain Analysis for Autonomous Navigation, NTU ref:2018-281, Singapore Provisional Patent No: 10201810715U.
+
 ---
 
 ## Certificates
@@ -88,7 +89,7 @@ To see my publication record please check out [my Google Scholar](https://schola
 
 ## Experience
 
-- *Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, Ferdowsi University of Mashhad, Mashhad, Iran | 2011-2016
+- *Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, Ferdowsi University of Mashhad, Iran | 2011-2016
 - *Interim CTO*, [OcularAI Inc.](http://Ocular.ai)  | 2015-now
 - *Director of NTU Research Showcase 2019*, NTU EEE Graduate Students Club, Singapore | 2019
 - Researcher at Machine Vision Lab., Ferdowsi University of Mashhad, Iran | 2015-2016
