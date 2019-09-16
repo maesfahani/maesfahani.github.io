@@ -75,3 +75,5 @@ To see my publication record please check out [my Google Scholar](https://schola
 *Head of ACM Scientific Committee*, FUM, Iran | 2012-2015
 *Head Of The Scientific Committee*, Scientific Society of Computer Engineering, FUM, Iran | 2013-2015
 *Technical Committee* of various RoboCup Competitions in Iran | 2012-2015
+*Head* of the team for implementing a virtual simulator under Unity3D, FUM, Iran | 2012-2016
+*Creator* of the virtual robots server under OGRE3D for national robotic competitions, Iran, 2012
