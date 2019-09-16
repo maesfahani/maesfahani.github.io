@@ -22,6 +22,7 @@
 - Thesis: Implementing a Localization and Mapping System for the Microsoft Eddie Robot, Under Supervision of [Prof. Ahad Harati](http://www.um.ac.ir/~a.harati)
 
 ---
+
 ## Skills
 **Programming**
 - C/C++, Python, JAVA, Shell Script, LaTeX
@@ -36,11 +37,15 @@
 - OpenCV, Caffe, Keras, TensorFlow
 
 **Other Tools**
+
 - OpenMP, MPI, Boost Library, Qt., Point Cloud Library(PCL), CMake, Docker, Django
 
 **Languages**
+
 - English, Persian(Farsi)
+
 ---
+
 ## Honors & Awards
 - Shortlisted as *Top 6 Data Scientist Students* in South East Asia and Pacific by Airliquid, in Future Ready Data Challenge, Singapore, 2018
 - *1st Place*, INTUition Hackathon Organized and Judged by Google, Lenovo, Black Rock, IEEE, and NTU, Singapore, 2017
@@ -60,6 +65,7 @@
 - *2nd and 4th Places* , 14th Portuguese Robotics Open competiotion, in RoboCup 2D and 3D Soccer Simulation Leagues respectively, Portugal, 2014
 - *1st , 3rd and 4th Places* , 9th International RoboCup IranOpen Competitions, in Goalie Challenge of 3D Simulated Robots, 3D and 2D Soccer Simulation Leagues respectively, Iran, 2014
 - *2nd Place*, Traffic Vision Control Competition, Sharif University of Technology, Iran, 2013
+
 ---
 
 ---
