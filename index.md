@@ -4,20 +4,20 @@
 
 ## Education
 ### Nanyang Technological University (NTU), Singapore
-**PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2017 - Expected:2021*
+**PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING**&nbsp;*2017 - Expected:2021*
 - Got Singapore International Graduate Award (SINGA)
 - NTU was ranked 4th in Engineering and Technology subject, 11th overall in QS World University Rankings 2017.
 - Thesis: Deep Learning based Visual-Inertial Odometry System, Under Supervision of [Prof. Han Wang](https://www3.ntu.edu.sg/home/hw/)
 
 ### Ferdowsi University of Mashhad (FUM), Iran ###
-**M.ENG. IN ARTIFICIAL INTELLIGENCE AND ROBOTICS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2015-2016*
+**M.ENG. IN ARTIFICIAL INTELLIGENCE AND ROBOTICS**&nbsp;*2015-2016*
 - Selected as a Talented Student by Ferdowsi University of Mashhad to pursue M.Eng. without Entrance Exam
 - Ranked as Top Three Students among all students in terms of GPA
 - The First Student to Finish Master Studies in the Field in One and a Half Year (It Normally Takes Two Years)
 - Thesis: Deep Learning based Head Posture Measurement, Under Supervision of [Prof. Hamidreza Pourreza](http://hpourreza.profcms.um.ac.ir/)
 
 ### Ferdowsi University of Mashhad (FUM)
-**B. SC. IN COMPUTER ENGINEERING - SOFTWARE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2011-2015*
+**B. SC. IN COMPUTER ENGINEERING - SOFTWARE**&nbsp;*2011-2015*
 - Ranked as Top Three Students among all Students in terms of GPA
 - Thesis: Implementing a Localization and Mapping System for the Microsoft Eddie Robot, Under Supervision of [Prof. Ahad Harati](http://www.um.ac.ir/~a.harati)
 
