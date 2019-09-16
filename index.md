@@ -2,6 +2,9 @@
 
 ---
 
+I am currently a Ph.D. candidate of Electrical and Electronics Engineering and a research assistant at the Robotics Laboratory at Nanyang Technological University (NTU), Singapore. My Current research is focused on incorporating Artificial Intelligence (AI) and Machine Learning (ML) techniques in order to make machines intelligent. 
+
+
 ## Education
 ### Nanyang Technological University (NTU), Singapore
 **PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING** | *2017-Now*
