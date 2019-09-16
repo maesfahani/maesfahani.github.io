@@ -5,7 +5,6 @@
 ### Education
 
 **Nanyang Technological University (NTU), Singapore**
-
 PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING               *2017 - Expected:2021*
 
 - Got Singapore International Graduate Award (SINGA)
