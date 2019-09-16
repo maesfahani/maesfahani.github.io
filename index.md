@@ -89,12 +89,12 @@ To see my publication record please check out [my Google Scholar](https://schola
 
 ## Experience
 
-- *Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, Ferdowsi University of Mashhad, Iran | 2011-2016
-- *Interim CTO*, [OcularAI Inc.](http://Ocular.ai)  | 2015-now
-- *Director of NTU Research Showcase 2019*, NTU EEE Graduate Students Club, Singapore | 2019
-- Researcher at Machine Vision Lab., Ferdowsi University of Mashhad, Iran | 2015-2016
-- *Researcher at DDEmS and High Performance Computing (HPC) Labs*, Ferdowsi University of Mashhad, Iran
-- *Head of ACM Scientific Committee*, Ferdowsi University of Mashhad, Iran
-- *Head Of The Scientific Committee*, Scientific Society of Computer Engineering, Ferdowsi University of Mashhad, Iran | 2013-2015
-- *Technical Committee* of various RoboCup Competitions in Iran | 2012-2015
+*Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, Ferdowsi University of Mashhad, Iran | 2011-2016
+*Interim CTO*, [OcularAI Inc.](http://Ocular.ai)  | 2015-now
+*Director of NTU Research Showcase 2019*, NTU EEE Graduate Students Club, Singapore | 2019
+Researcher at Machine Vision Lab., Ferdowsi University of Mashhad, Iran | 2015-2016
+*Researcher at DDEmS and High Performance Computing (HPC) Labs*, Ferdowsi University of Mashhad, Iran | 2011-2015
+*Head of ACM Scientific Committee*, Ferdowsi University of Mashhad, Iran | 2012-2015
+*Head Of The Scientific Committee*, Scientific Society of Computer Engineering, Ferdowsi University of Mashhad, Iran | 2013-2015
+*Technical Committee* of various RoboCup Competitions in Iran | 2012-2015
 
