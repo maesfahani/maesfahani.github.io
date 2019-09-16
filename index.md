@@ -19,7 +19,7 @@ I am currently a Ph.D. candidate of Electrical and Electronics Engineering, and 
 - The First Student to Finish Master Studies in the Field in One and a Half Year (It Normally Takes Two Years)
 - Thesis: Deep Learning based Head Posture Measurement, Under Supervision of [Prof. Hamidreza Pourreza](http://hpourreza.profcms.um.ac.ir/)
 
-### Ferdowsi University of Mashhad (FUM)
+### Ferdowsi University of Mashhad (FUM), Iran
 **B. SC. IN COMPUTER ENGINEERING - SOFTWARE** | *2011-2015*
 - Ranked as Top Three Students among all Students in terms of GPA
 - Thesis: Implementing a Localization and Mapping System for the Microsoft Eddie Robot, Under Supervision of [Prof. Ahad Harati](http://www.um.ac.ir/~a.harati)
