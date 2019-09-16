@@ -70,10 +70,10 @@ To see my publication record please check out [my Google Scholar](https://schola
 *Director of NTU Research Showcase 2019*, NTU EEE Graduate Students Club, Singapore | 2019
 *Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, FUM, Iran | 2011-2017
 *Head of the Executive and Scientific Committees*, National Programming Contest, FUM | 2012-2018
+*Head* of the team for implementing a virtual simulator under Unity3D, FUM, Iran | 2012-2016
+*Creator* of the virtual robots server under OGRE3D for national robotic competitions, Iran | 2012-2015
 *Researcher at Machine Vision Lab.*, FUM, Iran | 2015-2016
 *Researcher at DDEmS and High Performance Computing (HPC) Labs*, FUM, Iran | 2011-2015
 *Head of ACM Scientific Committee*, FUM, Iran | 2012-2015
 *Head Of The Scientific Committee*, Scientific Society of Computer Engineering, FUM, Iran | 2013-2015
 *Technical Committee* of various RoboCup Competitions in Iran | 2012-2015
-*Head* of the team for implementing a virtual simulator under Unity3D, FUM, Iran | 2012-2016
-*Creator* of the virtual robots server under OGRE3D for national robotic competitions, Iran | 2012-2015
