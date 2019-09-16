@@ -27,12 +27,12 @@
 
 - Shortlisted as *Top 6 Data Scientist Students* in South East Asia and Pacific by Airliquid, in Future Ready Data Challenge, Singapore, 2018
 - *1st Place*, INTUition Hackathon Organized and Judged by Google, Lenovo, Black Rock, IEEE, and NTU, Singapore, 2017
-- *SINGA Scholarship Award*, Won SINGA Scholarship to purchase Ph.D. at Nanyang Technological University, Singapore, 2017
+- *SINGA Scholarship Award*, Won SINGA Scholarship to purchase Ph.D. at NTU, Singapore, 2017
 - *1st Place*, Robotica 2017 - 17th Portuguese Robotics Open competition (RoboCup 2D Soccer Simulation League), 2017
 - *2nd Place*, RoboCup IranOpen - 12th International RoboCup IranOpen Competitions (RoboCup 2D Soccer Simulation League), 2017
-- *FUM Effort Medal* , Achieved this medal for my hard-working and managing various societies at Ferdowsi University of Mashhad, Iran, 2016
+- *FUM Effort Medal* , Achieved this medal for my hard-working and managing various societies at FUM, Iran, 2016
 - *1st Place*, RoboCup IranOpen - 11th International RoboCup IranOpen Competitions (RoboCup 2D Soccer Simulation League), 2016
-- *Best Research Work Award*, Facualty of Computer Engineering, Ferdowsi University of Mashhad, Iran, 2015
+- *Best Research Work Award*, Facualty of Computer Engineering, FUM, Iran, 2015
 - *3rd Place*, RoboCup IranOpen - 10th International RoboCup IranOpen Competitions (RoboCup 2D Soccer Simulation League), 2015
 - *1st Place*, RoboCup IranOpen - 10th International RoboCup IranOpen Competitions (RoboCup 3D Soccer Simulation League - Goalie Challenge), 2015
 - *3rd Place*, RoboCup IranOpen - 10th International RoboCup IranOpen Competitions (RoboCup 3D Soccer Simulation League), 2015
@@ -65,13 +65,13 @@ To see my publication record please check out [my Google Scholar](https://schola
 
 ## Experience
 
-*Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, Ferdowsi University of Mashhad, Iran | 2011-2016
-*Research Assistant*, Robotics Lab., Nanyang Technological University, Singapore  | 2017-now
+*Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, FUM, Iran | 2011-2016
+*Research Assistant*, Robotics Lab., NTU, Singapore  | 2017-now
 *Interim CTO*, [OcularAI Inc.](http://Ocular.ai)  | 2015-now
 *Director of NTU Research Showcase 2019*, NTU EEE Graduate Students Club, Singapore | 2019
-Researcher at Machine Vision Lab., Ferdowsi University of Mashhad, Iran | 2015-2016
-*Researcher at DDEmS and High Performance Computing (HPC) Labs*, Ferdowsi University of Mashhad, Iran | 2011-2015
-*Head of ACM Scientific Committee*, Ferdowsi University of Mashhad, Iran | 2012-2015
-*Head Of The Scientific Committee*, Scientific Society of Computer Engineering, Ferdowsi University of Mashhad, Iran | 2013-2015
+Researcher at Machine Vision Lab., FUM, Iran | 2015-2016
+*Researcher at DDEmS and High Performance Computing (HPC) Labs*, FUM, Iran | 2011-2015
+*Head of ACM Scientific Committee*, FUM, Iran | 2012-2015
+*Head Of The Scientific Committee*, Scientific Society of Computer Engineering, FUM, Iran | 2013-2015
 *Technical Committee* of various RoboCup Competitions in Iran | 2012-2015
-
+*Head of the Executive and Scientific Committees*, National Programming Contest, FUM | 2012-2018
