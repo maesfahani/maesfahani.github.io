@@ -3,11 +3,11 @@
 ---
 
 ## Education
-- ### Nanyang Technological University (NTU), Singapore
-    - **PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING** | *2017-Now*
-        - Got Singapore International Graduate Award (SINGA)
-        - NTU was ranked 4th in Engineering and Technology subject, 11th overall in QS World University Rankings 2017.
-        - Thesis: Deep Learning based Visual-Inertial Odometry System, Under Supervision of [Prof. Han Wang](https://www3.ntu.edu.sg/home/hw/)
+### Nanyang Technological University (NTU), Singapore
+- **PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING** | *2017-Now*
+- Got Singapore International Graduate Award (SINGA)
+- NTU was ranked 4th in Engineering and Technology subject, 11th overall in QS World University Rankings 2017.
+- Thesis: Deep Learning based Visual-Inertial Odometry System, Under Supervision of [Prof. Han Wang](https://www3.ntu.edu.sg/home/hw/)
 
 ### Ferdowsi University of Mashhad (FUM), Iran ###
 **M.ENG. IN ARTIFICIAL INTELLIGENCE AND ROBOTICS** | *2015-2016*
