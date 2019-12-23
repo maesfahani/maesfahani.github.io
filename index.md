@@ -27,7 +27,8 @@ I am currently a Ph.D. candidate of Electrical and Electronics Engineering, and 
 ---
 
 ## Honors & Awards
-
+- *Selected as one of the top 200 young scientists* from all over the world to participate in the prestigious Heidelberg Laureate Forum (HLF),by HLF 2019,Germany, 2019
+- *\euro{1000}* Travel grant to participate in the prestigious Heidelberg Laureate Forum (HLF), by HLF 2019, Germany, 2019
 - Shortlisted as *Top 6 Data Scientist Students* in South East Asia and Pacific by Airliquid, in Future Ready Data Challenge, Singapore, 2018
 - *1st Place*, INTUition Hackathon Organized and Judged by Google, Lenovo, Black Rock, IEEE, and NTU, Singapore, 2017
 - *SINGA Scholarship Award*, Won SINGA Scholarship to purchase Ph.D. at NTU, Singapore, 2017
