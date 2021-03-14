@@ -27,6 +27,7 @@ I am currently a Ph.D. candidate of Electrical and Electronics Engineering, and 
 ---
 
 ## Honors & Awards
+- The Best Event Organizer Award, Nanyang Technological University(NTU), Singapore, 2021
 - *Selected as one of the top 200 young scientists* from all over the world to participate in the prestigious Heidelberg Laureate Forum (HLF),by HLF 2019,Germany, 2019
 - *€1000 Travel grant* to participate in the prestigious Heidelberg Laureate Forum (HLF), by HLF 2019, Germany, 2019
 - Shortlisted as *Top 6 Data Scientist Students* in South East Asia and Pacific by Airliquid, in Future Ready Data Challenge, Singapore, 2018
@@ -64,6 +65,7 @@ To see my publication record please check out [my Google Scholar](https://schola
 
 ## Certificates
 - Competence in Fundamentals of Deep Learning for Multiple Data Types , NVIDIA, Singapore, 2018
+- Certificate of Quantum Excellence , IBM , 2020
 
 ---
 
