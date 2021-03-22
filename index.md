@@ -27,7 +27,7 @@ I am currently a Ph.D. candidate of Electrical and Electronics Engineering, and 
 ---
 
 ## Honors & Awards
-- The Best Event Organizer Award, Nanyang Technological University(NTU), Singapore, 2021
+- Awarded for hosting the best event and team management by Nanyang Technological University (NTU) president, Prof. Subra Suresh, Singapore, 2021
 - *Selected as one of the top 200 young scientists* from all over the world to participate in the prestigious Heidelberg Laureate Forum (HLF),by HLF 2019,Germany, 2019
 - *€1000 Travel grant* to participate in the prestigious Heidelberg Laureate Forum (HLF), by HLF 2019, Germany, 2019
 - Shortlisted as *Top 6 Data Scientist Students* in South East Asia and Pacific by Airliquid, in Future Ready Data Challenge, Singapore, 2018
@@ -44,7 +44,7 @@ I am currently a Ph.D. candidate of Electrical and Electronics Engineering, and 
 - *1st Place*, Inatel week of control and atomation (RoboCup 2D Soccer Simulation League), Brazil, 2015
 - *5th - 8th Places*, Robocup2015, RoboCup International Competition, 3D Soccer Simulation League, China, 2015
 - *3rd Rank University Team*, ACM-International Collegiate Programming Contest Asia Region - Tehran Site as Coach, Iran, 2015
-- *1st and 2nd Places*, EEE Latin American Robotics Competitions (LARC2014), in RoboCup 2D and 3D Soccer Simulation Leagues respectively, Brazil, 2014
+- *1st and 2nd Places*, IEEE Latin American Robotics Competitions (LARC2014), in RoboCup 2D and 3D Soccer Simulation Leagues respectively, Brazil, 2014
 - *2nd and 4th Places* , 14th Portuguese Robotics Open competiotion, in RoboCup 2D and 3D Soccer Simulation Leagues respectively, Portugal, 2014
 - *1st , 3rd and 4th Places* , 9th International RoboCup IranOpen Competitions, in Goalie Challenge of 3D Simulated Robots, 3D and 2D Soccer Simulation Leagues respectively, Iran, 2014
 - *2nd Place*, Traffic Vision Control Competition, Sharif University of Technology, Iran, 2013
@@ -73,7 +73,7 @@ To see my publication record please check out [my Google Scholar](https://schola
 
 *Research Assistant*, Robotics Lab., NTU, Singapore  | 2017-now
 *Interim CTO*, [OcularAI Inc.](http://Ocular.ai)  | 2015-now
-*Director of NTU Research Showcase 2019*, NTU EEE Graduate Students Club, Singapore | 2019
+*Director of NTU Research Showcase*, NTU EEE Graduate Students Club, Singapore | 2019-2022
 *Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, FUM, Iran | 2011-2017
 *Head of the Executive and Scientific Committees*, National Programming Contest, FUM | 2012-2018
 *Head* of the team for implementing a virtual simulator under Unity3D, FUM, Iran | 2012-2016
