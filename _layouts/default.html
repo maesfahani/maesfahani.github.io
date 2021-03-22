@@ -43,6 +43,10 @@
       <section>
       <DIV align="justify">
       {{ content }}
+        {% if site.logo2 %}
+          <img src="{{site.logo2 | relative_url}}"/>
+        {% endif %}
+
       </DIV>
       </section>
       <!-- 
@@ -65,9 +69,6 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
-        {% if site.logo2 %}
-          <img src="{{site.logo2 | relative_url}}" width="128" height="128"/>
-        {% endif %}
 
   </body>
 </html>
