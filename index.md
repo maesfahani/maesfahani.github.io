@@ -72,7 +72,6 @@ To see my publication record please check out [my Google Scholar](https://schola
 ## Experience
 
 *Research Assistant*, Robotics Lab., NTU, Singapore  | 2017-now
-*Interim CTO*, [OcularAI Inc.](http://Ocular.ai)  | 2015-now
 *Director of NTU Research Showcase*, NTU EEE Graduate Students Club, Singapore | 2019-2022
 *Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, FUM, Iran | 2011-2017
 *Head of the Executive and Scientific Committees*, National Programming Contest, FUM | 2012-2018
