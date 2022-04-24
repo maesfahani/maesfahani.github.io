@@ -75,7 +75,7 @@ To see my publication record please check out [my Google Scholar](https://schola
 *Research Assistant*, SMRT-NTU Corporate Lab, NTU, Singapore  | Jan. 2021 - Aug. 2021
 *Research Assistant*, Robotics Lab., NTU, Singapore  | 2017-2021
 *Director of NTU Research Showcase*, NTU EEE Graduate Students Club, Singapore | 2019-2022
-*Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, FUM, Iran | 2011-2017
+*Leader of Nexus Simulation and Modeling Lab*, FUM, Iran | 2011-2017
 *Head of the Executive and Scientific Committees*, National Programming Contest, FUM | 2012-2018
 *Head* of the team for implementing a virtual simulator under Unity3D, FUM, Iran | 2012-2016
 *Creator* of the virtual robots server under OGRE3D for national robotic competitions, Iran | 2012-2015
