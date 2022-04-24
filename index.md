@@ -7,7 +7,7 @@ I am currently a Ph.D. candidate of Electrical and Electronics Engineering, and 
 
 ## Education
 ### Nanyang Technological University (NTU), Singapore
-**PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING** | *2017-2021*
+**PH.D. IN ELECTRICAL AND ELECTRONICS ENGINEERING** | *2017-Now*
 - Got Singapore International Graduate Award (SINGA)
 - NTU was ranked 4th in Engineering and Technology subject, 11th overall in QS World University Rankings 2017.
 - Thesis: Deep Learning based Visual-Inertial Odometry System, Under Supervision of [Prof. Han Wang](https://www3.ntu.edu.sg/home/hw/)
@@ -32,7 +32,7 @@ I am currently a Ph.D. candidate of Electrical and Electronics Engineering, and 
 - *€1000 Travel grant* to participate in the prestigious Heidelberg Laureate Forum (HLF), by HLF 2019, Germany, 2019
 - Shortlisted as *Top 6 Data Scientist Students* in South East Asia and Pacific by Airliquid, in Future Ready Data Challenge, Singapore, 2018
 - *1st Place*, INTUition Hackathon Organized and Judged by Google, Lenovo, Black Rock, IEEE, and NTU, Singapore, 2017
-- *SINGA Scholarship Award*, Won SINGA Scholarship to pursue Ph.D. at Nanyang Technological University (SINGA scholarship was the highest level of scholarship in Singapore supported by the Singapore Science and Research centers), Singapore, 2017
+- *SINGA Scholarship Award*, Won SINGA Scholarship to purchase Ph.D. at NTU, Singapore, 2017
 - *1st Place*, Robotica 2017 - 17th Portuguese Robotics Open competition (RoboCup 2D Soccer Simulation League), 2017
 - *2nd Place*, RoboCup IranOpen - 12th International RoboCup IranOpen Competitions (RoboCup 2D Soccer Simulation League), 2017
 - *FUM Effort Medal* , Achieved this medal for my hard-working and managing various societies at FUM, Iran, 2016
@@ -70,7 +70,8 @@ To see my publication record please check out [my Google Scholar](https://schola
 ---
 
 ## Experience
-*Research Assistant*, Robotics Lab., NTU, Singapore  | 2017-2021
+
+*Research Assistant*, Robotics Lab., NTU, Singapore  | 2017-now
 *Director of NTU Research Showcase*, NTU EEE Graduate Students Club, Singapore | 2019-2022
 *Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, FUM, Iran | 2011-2017
 *Head of the Executive and Scientific Committees*, National Programming Contest, FUM | 2012-2018
