@@ -1,6 +1,8 @@
 title: Mahdi Abolfazli Esfahani
-logo: "/images/mahdi4.png?raw=true" 
-logo2: "/images/grs.jpeg?raw=true" 
+logo: "/images/mahdi4.png?raw=true"
+logo2: "/images/grs.jpeg?raw=true"
+logo3: "/images/venti.jpg?raw=true"
+#logo4: "/images/grs.jpeg?raw=true"
 description: <br>Ph.D. Candidate of EEE <br> NTU, Singapore  <br><br>  - Trying to Make Robots Intelligent - <br><br>
 
 #google_analytics: UA-118534303-1
@@ -12,15 +14,15 @@ theme: jekyll-theme-minimal
 #logo: "/images/mahdi4.png?raw=true" # your photo (or logo) here
 #description: > # your text below (remove <br> elements if you don't need line breaks)
  # <br><br>
- # Ph.D. Candidate of EEE  
+ # Ph.D. Candidate of EEE
  # <br><br>
- # NTU, Singapore 
+ # NTU, Singapore
  # <br><br>
- # Trying to make robots intelligent 
+ # Trying to make robots intelligent
  # <br><br>
- # <a href="https://www.linkedin.com/in/mahdi-abolfazli-esfahani-05332253/" target="_blank">View My LinkedIn Profile</a> 
+ # <a href="https://www.linkedin.com/in/mahdi-abolfazli-esfahani-05332253/" target="_blank">View My LinkedIn Profile</a>
  # <br><br>
- # <a href="https://scholar.google.com/citations?user=Y7pVVy4AAAAJ&hl=en&oi=ao/" target="_blank">View My Google Scholar</a> 
- # <br><br>  
- # <a href="https://twitter.com/abolfazli_mahdi/" target="_blank">Follow Me on Twitter</a> 
+ # <a href="https://scholar.google.com/citations?user=Y7pVVy4AAAAJ&hl=en&oi=ao/" target="_blank">View My Google Scholar</a>
+ # <br><br>
+ # <a href="https://twitter.com/abolfazli_mahdi/" target="_blank">Follow Me on Twitter</a>
  # <br><br>
