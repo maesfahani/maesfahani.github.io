@@ -70,8 +70,8 @@ To see my publication record please check out [my Google Scholar](https://schola
 ---
 
 ## Experience
-*Senior Research Scientist*, MIT CSAIL Spinoff [Venti Technologies PTE. LTD.], Singapore  | Jan. 2021-now
-*Research Assistant*, SMRT-NTU Corporate Lab, NTU, Singapore  | Jan. 2021 - Aug. 2021
+*Senior Research Scientist*, MIT CSAIL Spinoff [Venti Technologies PTE. LTD.], Singapore  | 2021-now
+*Research Assistant*, SMRT-NTU Corporate Lab, NTU, Singapore  | 2021 - 2021
 *Research Assistant*, Robotics Lab., NTU, Singapore  | 2017-2021
 *Director of NTU Research Showcase*, NTU EEE Graduate Students Club, Singapore | 2019-2022
 *Leader of [Nexus Simulation and Modeling Lab](http://nexus.um.ac.ir)*, FUM, Iran | 2011-2017
